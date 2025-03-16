@@ -1,0 +1,1 @@
+# Alternative-Data-Aggregator-for-Market-Trends
