@@ -1,0 +1,11 @@
+tweepy
+scrapy
+pandas
+numpy
+transformers
+torch
+fastapi
+uvicorn
+psycopg2-binary
+streamlit
+python-dotenv
