@@ -1,0 +1,10 @@
+api:
+  twitter:
+    key: "your_twitter_api_key"
+    secret: "your_twitter_api_secret"
+  database:
+    host: "localhost"
+    port: 5432
+    user: "admin"
+    password: "password"
+    name: "market_trends"
